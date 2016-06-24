@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<FrameLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:paddingBottom="66dp"
+        android:clipToPadding="false">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            tools:context="moj.mojautos.controllers.MainActivity"
+            android:padding="@dimen/default_padding">
+
+            <TextView
+                android:id="@+id/txt_main_title"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="autos_name"
+                android:padding="@dimen/default_padding"
+                android:gravity="center"/>
+
+            <TextView
+                android:id="@+id/txt_main_address"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="autos_address"
+                android:padding="@dimen/default_padding"
+                android:gravity="center"/>
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:layout_margin="8dp"
+                android:background="#aaa"/>
+
+            <TextView
+                android:id="@+id/txt_main_buy_car"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Tesla Model 3"
+                android:padding="@dimen/default_padding"/>
+
+            <ImageView
+                android:id="@+id/image_main_buy_car"
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/default_image_height"
+                android:src="@drawable/red_tesla_model_s"
+                android:scaleType="centerCrop"
+                android:padding="5dp"/>
+
+            <Button
+                android:id="@+id/btn_main_buy_car"
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/default_button_height"
+                android:text="@string/buy_car"
+                android:layout_gravity="bottom"
+                android:backgroundTint="@color/colorPrimary"
+                android:textColor="@android:color/white"/>
+
+        </LinearLayout>
+    </ScrollView>
+
+    <Button
+
+        android:id="@+id/btn_select_car"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/default_button_height"
+        android:text="@string/select_car"
+        android:layout_margin="@dimen/default_padding"
+        android:backgroundTint="@android:color/holo_blue_light"
+        android:textColor="@android:color/white"
+        android:layout_gravity="bottom"/>
+
+</FrameLayout>
