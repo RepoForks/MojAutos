@@ -1,5 +1,6 @@
 package moj.mojautos.controllers;
 
+import android.content.Intent;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 
@@ -34,4 +35,10 @@ public class MainActivity extends AppCompatActivity implements MainController {
     }
 
     // --- Overridden controller methods below -------------------------------------------------- //
+
+    @Override
+    public void selectCar() {
+        Intent intent = new Intent(this, SelectCarActivity.class);
+        startActivity(intent);
+    }
 }

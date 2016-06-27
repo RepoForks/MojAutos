@@ -9,6 +9,7 @@ import dagger.Provides;
 import moj.mojautos.controllers.MainActivity;
 import moj.mojautos.controllers.MainController;
 import moj.mojautos.injection.qualifiers.ForActivity;
+import moj.mojautos.injection.scopes.PerActivity;
 import moj.mojautos.ui.MainView;
 import moj.mojautos.ui.MainViewImpl;
 
@@ -26,14 +27,14 @@ public class MainModule {
     // Following provides are passed in from the constructor
 
     @Provides
-    @Singleton
+    @PerActivity
     @ForActivity
     Context providesMainActivityContext() {
         return mActivity;
     }
 
     @Provides
-    @Singleton
+    @PerActivity
     MainController providesMainController() {
         return mController;
     }
@@ -41,8 +42,8 @@ public class MainModule {
     // Rest of the provides below are created by Dagger
 
     @Provides
-    @Singleton
-    MainView providesMainView (MainViewImpl view) {
+    @PerActivity
+    MainView providesMainView(MainViewImpl view) {
         return view;
     }
 }

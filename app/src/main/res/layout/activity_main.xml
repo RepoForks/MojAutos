@@ -53,7 +53,7 @@
                 android:id="@+id/image_main_buy_car"
                 android:layout_width="match_parent"
                 android:layout_height="@dimen/default_image_height"
-                android:src="@drawable/red_tesla_model_s"
+                android:src="@drawable/tesla"
                 android:scaleType="centerCrop"
                 android:padding="5dp"/>
 

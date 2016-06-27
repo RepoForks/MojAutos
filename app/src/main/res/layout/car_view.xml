@@ -22,12 +22,12 @@
                 android:id="@+id/image_car_view"
                 android:layout_width="wrap_content"
                 android:layout_height="@dimen/default_image_height"
-                android:src="@drawable/red_tesla_model_s"
+                android:src="@drawable/tesla"
                 android:scaleType="centerCrop"
                 android:padding="5dp"/>
 
             <Button
-                android:id="@+id/btn_car_view_add"
+                android:id="@+id/btn_car_view_buy"
                 android:layout_width="match_parent"
                 android:layout_height="@dimen/default_button_height"
                 android:text="@string/add_car"

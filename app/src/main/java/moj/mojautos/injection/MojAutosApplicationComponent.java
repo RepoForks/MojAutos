@@ -9,4 +9,5 @@ public interface MojAutosApplicationComponent {
     void inject (MojAutosApplication application);
 
     MainComponent plus (MainModule module); // to add more modules, just add as a new argument.
+    SelectCarComponent plus (SelectCarModule module);
 }

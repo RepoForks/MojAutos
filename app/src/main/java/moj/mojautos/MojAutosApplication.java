@@ -21,7 +21,6 @@ public class MojAutosApplication extends Application {
         /**
          * The component is made up from Modules
          */
-
         mComponent = DaggerMojAutosApplicationComponent.builder()
                 .mojAutosApplicationModule(new MojAutosApplicationModule(this)) // Can add more modules using . operator
                 .build();
