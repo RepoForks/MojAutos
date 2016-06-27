@@ -5,6 +5,8 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 
+import com.squareup.picasso.Picasso;
+
 import java.util.List;
 
 import javax.inject.Inject;
@@ -48,7 +50,7 @@ public class CarAdapter extends RecyclerView.Adapter<CarViewHolder> {
             }
         });
 
-
+        
 //        vh.mBtnBuy.setOnClickListener(new View.OnClickListener() {
 //            @Override
 //            public void onClick(View view) {
@@ -63,6 +65,9 @@ public class CarAdapter extends RecyclerView.Adapter<CarViewHolder> {
     @Override
     public void onBindViewHolder(CarViewHolder holder, int position) {
         // set texts etc.
+        holder.mTxtCarTitle.setText(mDataset.get(position).getCarName());
+        //holder.mImgCar.setBackgroundResource(mDataset.get(position).getCarResId());
+        Picasso.with(holder.mImgCar.getContext()).load(mDataset.get(position).getCarResId()).into(holder.mImgCar);
 
     }
 

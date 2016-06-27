@@ -5,5 +5,5 @@
 
     <dimen name="default_padding">16dp</dimen>
     <dimen name="default_button_height">56dp</dimen>
-    <dimen name="default_image_height">120dp</dimen>
+    <dimen name="default_image_height">150dp</dimen>
 </resources>
