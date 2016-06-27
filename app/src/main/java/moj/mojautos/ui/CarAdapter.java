@@ -29,7 +29,6 @@ public class CarAdapter extends RecyclerView.Adapter<CarViewHolder> {
 
     @Override
     public int getItemCount() {
-//        return mDataset.length;
         return mCount; // because we do not need to keep using mDataset.length as the size is fixed.
     }
 
@@ -46,19 +45,15 @@ public class CarAdapter extends RecyclerView.Adapter<CarViewHolder> {
         vh.mBtnBuy.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                //TODO interact with controller
+                int position = vh.getAdapterPosition();
+                if (position != RecyclerView.NO_POSITION) {
+                    mController.onBuyClicked(
+                            mDataset.get(position).getCarName(),
+                            mDataset.get(position).getCarResId());
+                }
             }
         });
 
-        
-//        vh.mBtnBuy.setOnClickListener(new View.OnClickListener() {
-//            @Override
-//            public void onClick(View view) {
-//                int position = vh.getAdapterPosition();
-//                if (position != RecyclerView.NO_POSITION) {
-//                }
-//            }
-//        });
         return vh;
     }
 
@@ -66,9 +61,7 @@ public class CarAdapter extends RecyclerView.Adapter<CarViewHolder> {
     public void onBindViewHolder(CarViewHolder holder, int position) {
         // set texts etc.
         holder.mTxtCarTitle.setText(mDataset.get(position).getCarName());
-        //holder.mImgCar.setBackgroundResource(mDataset.get(position).getCarResId());
         Picasso.with(holder.mImgCar.getContext()).load(mDataset.get(position).getCarResId()).into(holder.mImgCar);
-
     }
 
     public void setData(List<Car> data) {

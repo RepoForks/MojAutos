@@ -2,7 +2,9 @@ package moj.mojautos.injection;
 
 import dagger.Component;
 import moj.mojautos.MojAutosApplication;
+import moj.mojautos.injection.scopes.PerApplication;
 
+@PerApplication
 @Component (modules = {MojAutosApplicationModule.class})
 public interface MojAutosApplicationComponent {
 

@@ -1,9 +1,9 @@
 package moj.mojautos.controllers;
 
-import android.support.v7.app.AppCompatActivity;
+import android.app.Activity;
+import android.content.Intent;
 import android.os.Bundle;
-import android.support.v7.widget.LinearLayoutManager;
-import android.support.v7.widget.RecyclerView;
+import android.support.v7.app.AppCompatActivity;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -12,17 +12,17 @@ import javax.inject.Inject;
 
 import moj.mojautos.MojAutosApplication;
 import moj.mojautos.R;
-import moj.mojautos.injection.MainModule;
 import moj.mojautos.injection.SelectCarModule;
 import moj.mojautos.model.Car;
-import moj.mojautos.ui.MainView;
 import moj.mojautos.ui.SelectCarView;
 
 public class SelectCarActivity extends AppCompatActivity implements SelectCarController {
 
-    @Inject
-    SelectCarView mSelectCarView;
+    final static String CAR_TITLE_EXTRA = "CAR_TITLE_EXTRA";
+    final static String CAR_IMAGE_RES_ID_EXTRA = "CAR_IMAGE_RES_ID_EXTRA";
 
+    @Inject
+    SelectCarView mView;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -30,9 +30,9 @@ public class SelectCarActivity extends AppCompatActivity implements SelectCarCon
         setContentView(R.layout.activity_select_car);
 
         initComponent();
-        mSelectCarView.init(findViewById(android.R.id.content)); // Only place to really use findViewById
+        mView.init(findViewById(android.R.id.content)); // Only place to really use findViewById
 
-         mSelectCarView.showCarList(createListOfCars());
+        mView.showCarList(createListOfCars());
     }
 
     private void initComponent() {
@@ -49,8 +49,8 @@ public class SelectCarActivity extends AppCompatActivity implements SelectCarCon
         List<Car> carList = new ArrayList<>();
 
         Car c1 = new Car();
-        c1.setCarName("Bently");
-        c1.setCarResId(R.drawable.bently);
+        c1.setCarName("Bentley");
+        c1.setCarResId(R.drawable.bentley);
 
         Car c2 = new Car();
         c2.setCarName("BMW");
@@ -73,7 +73,12 @@ public class SelectCarActivity extends AppCompatActivity implements SelectCarCon
     }
 
     @Override
-    public void buyCar() {
+    public void onBuyClicked(String carTitle, int carImageResId) {
+        Intent resultIntent = new Intent();
+        resultIntent.putExtra(CAR_TITLE_EXTRA, carTitle);
+        resultIntent.putExtra(CAR_IMAGE_RES_ID_EXTRA, carImageResId);
 
+        setResult(Activity.RESULT_OK, resultIntent);
+        finish();
     }
 }

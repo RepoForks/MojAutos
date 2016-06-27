@@ -1,9 +1,12 @@
 package moj.mojautos.injection;
 
 import android.content.Context;
+import android.support.annotation.NonNull;
+import android.view.View;
 
 import javax.inject.Singleton;
 
+import butterknife.ButterKnife;
 import dagger.Module;
 import dagger.Provides;
 import moj.mojautos.controllers.MainActivity;
@@ -45,5 +48,16 @@ public class MainModule {
     @PerActivity
     MainView providesMainView(MainViewImpl view) {
         return view;
+    }
+
+    @Provides
+    @PerActivity
+    ButterKnife.Action<View> providesActionVisible (){
+        return new ButterKnife.Action<View>() {
+            @Override
+            public void apply(@NonNull View view, int index) {
+                view.setVisibility(View.VISIBLE);
+            }
+        };
     }
 }

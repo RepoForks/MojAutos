@@ -47,15 +47,16 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:text="Tesla Model 3"
-                android:padding="@dimen/default_padding"/>
+                android:padding="@dimen/default_padding"
+                android:visibility="gone"/>
 
             <ImageView
                 android:id="@+id/image_main_buy_car"
                 android:layout_width="match_parent"
                 android:layout_height="@dimen/default_image_height"
-                android:src="@drawable/tesla"
                 android:scaleType="centerCrop"
-                android:padding="5dp"/>
+                android:padding="5dp"
+                android:visibility="gone"/>
 
             <Button
                 android:id="@+id/btn_main_buy_car"
@@ -64,7 +65,8 @@
                 android:text="@string/buy_car"
                 android:layout_gravity="bottom"
                 android:backgroundTint="@color/colorPrimary"
-                android:textColor="@android:color/white"/>
+                android:textColor="@android:color/white"
+                android:visibility="gone"/>
 
         </LinearLayout>
     </ScrollView>
