@@ -27,7 +27,7 @@ public class SelectCarActivity extends AppCompatActivity implements SelectCarCon
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_main);
+        setContentView(R.layout.activity_select_car);
 
         initComponent();
         mSelectCarView.init(findViewById(android.R.id.content)); // Only place to really use findViewById

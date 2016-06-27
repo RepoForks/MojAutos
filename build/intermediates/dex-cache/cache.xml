@@ -2,418 +2,400 @@
 <items version="2" >
 
     <item
-        is-multidex="true"
-        jar="/Users/tabloan/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.6.0/98476622f10715998eacf9240d6b479f12c66143/okio-1.6.0.jar"
-        jumboMode="true"
-        optimize="false"
-        revision="24.0.0"
-        sha1="98476622f10715998eacf9240d6b479f12c66143">
-        <dex dex="/Users/tabloan/StudioProjects/MojAutos/app/build/intermediates/transforms/dex/debug/folders/1000/10/okio-1.6.0_852ff39af44764bb7035d3625d3766a322578f9d/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
+        is-multidex="false"
         jar="/Users/tabloan/StudioProjects/MojAutos/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics-impl/9.0.2/jars/classes.jar"
-        jumboMode="true"
+        jumboMode="false"
         optimize="false"
         revision="24.0.0"
         sha1="6c58c14d15602fea2c50138c73bb107e8b832b62">
-        <dex dex="/Users/tabloan/StudioProjects/MojAutos/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-analytics-impl-9.0.2_4117de9a2fd82e5a122d4b3a82c57da167c266f1/classes.dex" />
+        <dex dex="/Users/tabloan/StudioProjects/MojAutos/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-analytics-impl-9.0.2_4117de9a2fd82e5a122d4b3a82c57da167c266f1.jar" />
     </item>
     <item
-        is-multidex="true"
-        jar="/Users/tabloan/StudioProjects/MojAutos/app/build/intermediates/exploded-aar/com.jakewharton.timber/timber/4.1.2/jars/classes.jar"
-        jumboMode="true"
-        optimize="false"
-        revision="24.0.0"
-        sha1="aba9abcfe7ce6d935add115f5ce20254b037d583">
-        <dex dex="/Users/tabloan/StudioProjects/MojAutos/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.jakewharton.timber-timber-4.1.2_1a96fe91cd51c0df2b435234504327f5cd4e19c9/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/tabloan/StudioProjects/MojAutos/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="false"
-        revision="24.0.0"
-        sha1="0874286cc2fd88d54fdf130e9d5372730da6de97">
-        <dex dex="/Users/tabloan/StudioProjects/MojAutos/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.0.0_f29b6300828e1a6f3f8e9a7db305afe8aa8062a8/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
+        is-multidex="false"
         jar="/Users/tabloan/StudioProjects/MojAutos/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/9.0.2/jars/classes.jar"
-        jumboMode="true"
+        jumboMode="false"
         optimize="false"
         revision="24.0.0"
         sha1="fe5b47e764869f1076cb9cfe12801ed2ef4e9117">
-        <dex dex="/Users/tabloan/StudioProjects/MojAutos/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-analytics-9.0.2_b31e51d93fcb233d24a6618f81738a6dd782caf0/classes.dex" />
+        <dex dex="/Users/tabloan/StudioProjects/MojAutos/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-analytics-9.0.2_b31e51d93fcb233d24a6618f81738a6dd782caf0.jar" />
     </item>
     <item
-        is-multidex="true"
-        jar="/Users/tabloan/.gradle/caches/modules-2/files-2.1/com.google.dagger/dagger/2.4/6b290a792253035c9fcc912d6a4d7efb3e850211/dagger-2.4.jar"
-        jumboMode="true"
-        optimize="false"
-        revision="24.0.0"
-        sha1="6b290a792253035c9fcc912d6a4d7efb3e850211">
-        <dex dex="/Users/tabloan/StudioProjects/MojAutos/app/build/intermediates/transforms/dex/debug/folders/1000/10/dagger-2.4_84b436b0df3d993678e7f711b6397524e9232dd4/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/tabloan/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp/okhttp/2.7.5/7a15a7db50f86c4b64aa3367424a60e3a325b8f1/okhttp-2.7.5.jar"
-        jumboMode="true"
-        optimize="false"
-        revision="24.0.0"
-        sha1="7a15a7db50f86c4b64aa3367424a60e3a325b8f1">
-        <dex dex="/Users/tabloan/StudioProjects/MojAutos/app/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-2.7.5_285d6f36bf9371163ff93835e4283245099c9796/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/tabloan/StudioProjects/MojAutos/app/build/intermediates/exploded-aar/com.jakewharton.rxbinding/rxbinding/0.4.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="false"
-        revision="24.0.0"
-        sha1="ffc09f4e5bdebe068e5101f587dadc42b60fbfe4">
-        <dex dex="/Users/tabloan/StudioProjects/MojAutos/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.jakewharton.rxbinding-rxbinding-0.4.0_3800868043f45124572abe73beb09d1ee8afcb8a/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/tabloan/StudioProjects/MojAutos/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.0.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="false"
-        revision="24.0.0"
-        sha1="e70f608219ed6b974644c333249ab2bb7b71de98">
-        <dex dex="/Users/tabloan/StudioProjects/MojAutos/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.0.0_8b9189409195ece57e25cde653b1edd07669c2fa/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/tabloan/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit/retrofit/1.9.0/a681c044244d9fc375198588297a39ba78028423/retrofit-1.9.0.jar"
-        jumboMode="true"
-        optimize="false"
-        revision="24.0.0"
-        sha1="a681c044244d9fc375198588297a39ba78028423">
-        <dex dex="/Users/tabloan/StudioProjects/MojAutos/app/build/intermediates/transforms/dex/debug/folders/1000/10/retrofit-1.9.0_8b92244101bed168edaad53fee4ec7fdd1b6733f/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
+        is-multidex="false"
         jar="/Users/tabloan/StudioProjects/MojAutos/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/9.0.2/jars/classes.jar"
-        jumboMode="true"
+        jumboMode="false"
         optimize="false"
         revision="24.0.0"
         sha1="9919563cffd8e3732e944d3c437d4b9575a08448">
-        <dex dex="/Users/tabloan/StudioProjects/MojAutos/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-common-9.0.2_08c357822b90b49b9561bdf5d7c3739306beb47b/classes.dex" />
+        <dex dex="/Users/tabloan/StudioProjects/MojAutos/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-common-9.0.2_08c357822b90b49b9561bdf5d7c3739306beb47b.jar" />
     </item>
     <item
-        is-multidex="true"
+        is-multidex="false"
+        jar="/Users/tabloan/StudioProjects/MojAutos/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="false"
+        revision="24.0.0"
+        sha1="0874286cc2fd88d54fdf130e9d5372730da6de97">
+        <dex dex="/Users/tabloan/StudioProjects/MojAutos/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-24.0.0_f29b6300828e1a6f3f8e9a7db305afe8aa8062a8.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="/Users/tabloan/StudioProjects/MojAutos/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/libs/internal_impl-24.0.0.jar"
-        jumboMode="true"
+        jumboMode="false"
         optimize="false"
         revision="24.0.0"
         sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
-        <dex dex="/Users/tabloan/StudioProjects/MojAutos/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.0.0_2199983042a915221209d91f14f30210f014291a/classes.dex" />
+        <dex dex="/Users/tabloan/StudioProjects/MojAutos/app/build/intermediates/pre-dexed/debug/internal_impl-24.0.0_2199983042a915221209d91f14f30210f014291a.jar" />
     </item>
     <item
-        is-multidex="true"
-        jar="/Users/tabloan/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/2.0.1/516c03b21d50a644d538de0f0369c620989cd8f0/jsr305-2.0.1.jar"
-        jumboMode="true"
+        is-multidex="false"
+        jar="/Users/tabloan/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp/okhttp/2.7.5/7a15a7db50f86c4b64aa3367424a60e3a325b8f1/okhttp-2.7.5.jar"
+        jumboMode="false"
         optimize="false"
         revision="24.0.0"
-        sha1="516c03b21d50a644d538de0f0369c620989cd8f0">
-        <dex dex="/Users/tabloan/StudioProjects/MojAutos/app/build/intermediates/transforms/dex/debug/folders/1000/10/jsr305-2.0.1_7822a0012a92c3c76a965341003783ecf27762b8/classes.dex" />
+        sha1="7a15a7db50f86c4b64aa3367424a60e3a325b8f1">
+        <dex dex="/Users/tabloan/StudioProjects/MojAutos/app/build/intermediates/pre-dexed/debug/okhttp-2.7.5_285d6f36bf9371163ff93835e4283245099c9796.jar" />
     </item>
     <item
-        is-multidex="true"
-        jar="/Users/tabloan/StudioProjects/MojAutos/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.2/jars/classes.jar"
-        jumboMode="true"
+        is-multidex="false"
+        jar="/Users/tabloan/StudioProjects/MojAutos/app/build/intermediates/exploded-aar/com.jakewharton.rxbinding/rxbinding/0.4.0/jars/classes.jar"
+        jumboMode="false"
         optimize="false"
         revision="24.0.0"
-        sha1="94d9cedd04b124aed044ac71c451a292856d854c">
-        <dex dex="/Users/tabloan/StudioProjects/MojAutos/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-base-9.0.2_cd890811f38471bb92014acb8330100811c98e0b/classes.dex" />
+        sha1="ffc09f4e5bdebe068e5101f587dadc42b60fbfe4">
+        <dex dex="/Users/tabloan/StudioProjects/MojAutos/app/build/intermediates/pre-dexed/debug/com.jakewharton.rxbinding-rxbinding-0.4.0_3800868043f45124572abe73beb09d1ee8afcb8a.jar" />
     </item>
     <item
-        is-multidex="true"
+        is-multidex="false"
         jar="/Users/tabloan/StudioProjects/MojAutos/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-iid/9.0.2/jars/classes.jar"
-        jumboMode="true"
+        jumboMode="false"
         optimize="false"
         revision="24.0.0"
         sha1="cf16220db9128d91a215aedc739584181d5ca6a4">
-        <dex dex="/Users/tabloan/StudioProjects/MojAutos/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-iid-9.0.2_17e79ab8e1cbcf7f3ad64e111b25fd1d765094cd/classes.dex" />
+        <dex dex="/Users/tabloan/StudioProjects/MojAutos/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-iid-9.0.2_17e79ab8e1cbcf7f3ad64e111b25fd1d765094cd.jar" />
     </item>
     <item
-        is-multidex="true"
+        is-multidex="false"
         jar="/Users/tabloan/.gradle/caches/modules-2/files-2.1/com.facebook.stetho/stetho-okhttp/1.2.0/6c5c9380e245c4ff5be2b2a49dcbb0200c39798e/stetho-okhttp-1.2.0.jar"
-        jumboMode="true"
+        jumboMode="false"
         optimize="false"
         revision="24.0.0"
         sha1="6c5c9380e245c4ff5be2b2a49dcbb0200c39798e">
-        <dex dex="/Users/tabloan/StudioProjects/MojAutos/app/build/intermediates/transforms/dex/debug/folders/1000/10/stetho-okhttp-1.2.0_b5640f175b5810b5941970a86f9e6b6989f3a86f/classes.dex" />
+        <dex dex="/Users/tabloan/StudioProjects/MojAutos/app/build/intermediates/pre-dexed/debug/stetho-okhttp-1.2.0_b5640f175b5810b5941970a86f9e6b6989f3a86f.jar" />
     </item>
     <item
-        is-multidex="true"
+        is-multidex="false"
         jar="/Users/tabloan/StudioProjects/MojAutos/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/9.0.2/jars/classes.jar"
-        jumboMode="true"
+        jumboMode="false"
         optimize="false"
         revision="24.0.0"
         sha1="e6970f0554f9508c041f1f6960af15cc888c9f35">
-        <dex dex="/Users/tabloan/StudioProjects/MojAutos/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-gcm-9.0.2_c06d90bf069067de5500cbaf95f3e8a01ff1cdc7/classes.dex" />
+        <dex dex="/Users/tabloan/StudioProjects/MojAutos/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-gcm-9.0.2_c06d90bf069067de5500cbaf95f3e8a01ff1cdc7.jar" />
     </item>
     <item
-        is-multidex="true"
-        jar="/Users/tabloan/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife-annotations/8.0.1/345b89f45d02d8b09400b472fab7b7e38f4ede1f/butterknife-annotations-8.0.1.jar"
-        jumboMode="true"
-        optimize="false"
-        revision="24.0.0"
-        sha1="345b89f45d02d8b09400b472fab7b7e38f4ede1f">
-        <dex dex="/Users/tabloan/StudioProjects/MojAutos/app/build/intermediates/transforms/dex/debug/folders/1000/10/butterknife-annotations-8.0.1_fa176eb83ffa5e4026eb805dea24317672c3ed42/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/tabloan/StudioProjects/MojAutos/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.0.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="false"
-        revision="24.0.0"
-        sha1="3bd97cfefd783e9de1dd1c30574a6adb44b4409b">
-        <dex dex="/Users/tabloan/StudioProjects/MojAutos/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.0.0_a3a4c4fd5592e92320d1b574d0dc5d4baf2bf1a8/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/tabloan/StudioProjects/MojAutos/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.0.2/jars/classes.jar"
-        jumboMode="true"
-        optimize="false"
-        revision="24.0.0"
-        sha1="aec1bc54964a85d851c2c1b1cb7f90f7dbd755ab">
-        <dex dex="/Users/tabloan/StudioProjects/MojAutos/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tasks-9.0.2_89d41cb037e7de7fd640eb0922a848903706055f/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/tabloan/StudioProjects/MojAutos/app/build/intermediates/exploded-aar/com.android.support/design/24.0.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="false"
-        revision="24.0.0"
-        sha1="fc29308a7a8f6d4407b34634eb48fb8b817f9b23">
-        <dex dex="/Users/tabloan/StudioProjects/MojAutos/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-24.0.0_1b36dc609cef38ba2facedf558c83b825fa6dfe7/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
+        is-multidex="false"
         jar="/Users/tabloan/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.6.2/f1bc476cc167b18e66c297df599b2377131a8947/gson-2.6.2.jar"
-        jumboMode="true"
+        jumboMode="false"
         optimize="false"
         revision="24.0.0"
         sha1="f1bc476cc167b18e66c297df599b2377131a8947">
-        <dex dex="/Users/tabloan/StudioProjects/MojAutos/app/build/intermediates/transforms/dex/debug/folders/1000/10/gson-2.6.2_bebbc510914eca12a68c3c3ef1185fd01fe61344/classes.dex" />
+        <dex dex="/Users/tabloan/StudioProjects/MojAutos/app/build/intermediates/pre-dexed/debug/gson-2.6.2_bebbc510914eca12a68c3c3ef1185fd01fe61344.jar" />
     </item>
     <item
-        is-multidex="true"
-        jar="/Users/tabloan/.gradle/caches/modules-2/files-2.1/com.squareup.haha/haha/1.3/d2c832f9d14a11c79f58a7ee2e10526a12152c72/haha-1.3.jar"
-        jumboMode="true"
+        is-multidex="false"
+        jar="/Users/tabloan/StudioProjects/MojAutos/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.0.0/jars/classes.jar"
+        jumboMode="false"
         optimize="false"
         revision="24.0.0"
-        sha1="d2c832f9d14a11c79f58a7ee2e10526a12152c72">
-        <dex dex="/Users/tabloan/StudioProjects/MojAutos/app/build/intermediates/transforms/dex/debug/folders/1000/10/haha-1.3_aeb804f8740043d25d28c2281e574f60080aa5e2/classes.dex" />
+        sha1="3bd97cfefd783e9de1dd1c30574a6adb44b4409b">
+        <dex dex="/Users/tabloan/StudioProjects/MojAutos/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-24.0.0_a3a4c4fd5592e92320d1b574d0dc5d4baf2bf1a8.jar" />
     </item>
     <item
-        is-multidex="true"
-        jar="/Users/tabloan/StudioProjects/MojAutos/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/24.0.0/jars/classes.jar"
-        jumboMode="true"
+        is-multidex="false"
+        jar="/Users/tabloan/StudioProjects/MojAutos/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.0.2/jars/classes.jar"
+        jumboMode="false"
         optimize="false"
         revision="24.0.0"
-        sha1="8dd49930e4f9dde1a42d37e362b9fea8b1b69c0d">
-        <dex dex="/Users/tabloan/StudioProjects/MojAutos/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-cardview-v7-24.0.0_cdc9762c3557fd50b5de8acd794fc82c442111fa/classes.dex" />
+        sha1="aec1bc54964a85d851c2c1b1cb7f90f7dbd755ab">
+        <dex dex="/Users/tabloan/StudioProjects/MojAutos/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-tasks-9.0.2_89d41cb037e7de7fd640eb0922a848903706055f.jar" />
     </item>
     <item
-        is-multidex="true"
-        jar="/Users/tabloan/StudioProjects/MojAutos/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/9.0.2/jars/classes.jar"
-        jumboMode="true"
-        optimize="false"
-        revision="24.0.0"
-        sha1="20e1a0f0de6276a5f36062b655f8b20f8cc00cc4">
-        <dex dex="/Users/tabloan/StudioProjects/MojAutos/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-maps-9.0.2_bc82562ea7ad14db14b9054ce2c791f3f12fc102/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/tabloan/.gradle/caches/modules-2/files-2.1/commons-cli/commons-cli/1.2/2bf96b7aa8b611c177d329452af1dc933e14501c/commons-cli-1.2.jar"
-        jumboMode="true"
-        optimize="false"
-        revision="24.0.0"
-        sha1="2bf96b7aa8b611c177d329452af1dc933e14501c">
-        <dex dex="/Users/tabloan/StudioProjects/MojAutos/app/build/intermediates/transforms/dex/debug/folders/1000/10/commons-cli-1.2_86bf449064516a580b7027d1f95b42113f84ffd9/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/tabloan/StudioProjects/MojAutos/app/build/intermediates/exploded-aar/com.jakewharton/butterknife/8.0.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="false"
-        revision="24.0.0"
-        sha1="74ca46e7da11e3d065eb64cdbe6568a7ed74c211">
-        <dex dex="/Users/tabloan/StudioProjects/MojAutos/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.jakewharton-butterknife-8.0.1_12a2150a37411db85ed40b511e075a952faf71de/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/tabloan/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
-        jumboMode="true"
-        optimize="false"
-        revision="24.0.0"
-        sha1="6975da39a7040257bd51d21a231b76c915872d38">
-        <dex dex="/Users/tabloan/StudioProjects/MojAutos/app/build/intermediates/transforms/dex/debug/folders/1000/10/javax.inject-1_96df200b52910105445d474f43503b7b89063b83/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
+        is-multidex="false"
         jar="/Users/tabloan/StudioProjects/MojAutos/app/build/intermediates/exploded-aar/io.reactivex/rxandroid/1.2.0/jars/classes.jar"
-        jumboMode="true"
+        jumboMode="false"
         optimize="false"
         revision="24.0.0"
         sha1="927e8ef5711b115b65b2f35495d77352be2b3c09">
-        <dex dex="/Users/tabloan/StudioProjects/MojAutos/app/build/intermediates/transforms/dex/debug/folders/1000/10/io.reactivex-rxandroid-1.2.0_ad2c6f2de4f52a997f1b5595f5f36d8fa0bc0182/classes.dex" />
+        <dex dex="/Users/tabloan/StudioProjects/MojAutos/app/build/intermediates/pre-dexed/debug/io.reactivex-rxandroid-1.2.0_ad2c6f2de4f52a997f1b5595f5f36d8fa0bc0182.jar" />
     </item>
     <item
-        is-multidex="true"
-        jar="/Users/tabloan/StudioProjects/MojAutos/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
-        jumboMode="true"
+        is-multidex="false"
+        jar="/Users/tabloan/StudioProjects/MojAutos/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/9.0.2/jars/classes.jar"
+        jumboMode="false"
         optimize="false"
         revision="24.0.0"
-        sha1="100552b4287d08097616c5e4916a920dcadbfbf2">
-        <dex dex="/Users/tabloan/StudioProjects/MojAutos/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_62bcee6105aab1289f687949d0d6605cce90ddb5/classes.dex" />
+        sha1="20e1a0f0de6276a5f36062b655f8b20f8cc00cc4">
+        <dex dex="/Users/tabloan/StudioProjects/MojAutos/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-maps-9.0.2_bc82562ea7ad14db14b9054ce2c791f3f12fc102.jar" />
     </item>
     <item
-        is-multidex="true"
-        jar="/Users/tabloan/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.2/7446d06ec8d4f7ffcc53f1da37c95f200dcb9387/picasso-2.5.2.jar"
-        jumboMode="true"
+        is-multidex="false"
+        jar="/Users/tabloan/.gradle/caches/modules-2/files-2.1/commons-cli/commons-cli/1.2/2bf96b7aa8b611c177d329452af1dc933e14501c/commons-cli-1.2.jar"
+        jumboMode="false"
         optimize="false"
         revision="24.0.0"
-        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
-        <dex dex="/Users/tabloan/StudioProjects/MojAutos/app/build/intermediates/transforms/dex/debug/folders/1000/10/picasso-2.5.2_193f98221d053f6dc9177753ee5c11ea60637c14/classes.dex" />
+        sha1="2bf96b7aa8b611c177d329452af1dc933e14501c">
+        <dex dex="/Users/tabloan/StudioProjects/MojAutos/app/build/intermediates/pre-dexed/debug/commons-cli-1.2_86bf449064516a580b7027d1f95b42113f84ffd9.jar" />
     </item>
     <item
-        is-multidex="true"
-        jar="/Users/tabloan/.gradle/caches/modules-2/files-2.1/io.reactivex/rxjava/1.1.5/ece7b5d0870e66d8226dab6dcf47a2b12afff061/rxjava-1.1.5.jar"
-        jumboMode="true"
-        optimize="false"
-        revision="24.0.0"
-        sha1="ece7b5d0870e66d8226dab6dcf47a2b12afff061">
-        <dex dex="/Users/tabloan/StudioProjects/MojAutos/app/build/intermediates/transforms/dex/debug/folders/1000/10/rxjava-1.1.5_d678d713d073cb78a86f6a2260a6c2b55c537f75/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
+        is-multidex="false"
         jar="/Users/tabloan/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.0-alpha3/constraint-layout-solver-1.0.0-alpha3.jar"
-        jumboMode="true"
+        jumboMode="false"
         optimize="false"
         revision="24.0.0"
         sha1="977d57354ef7ef4faa604b802d4907728e0db889">
-        <dex dex="/Users/tabloan/StudioProjects/MojAutos/app/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.0-alpha3_7aae490540be395da2f627e710f6b554fe843b64/classes.dex" />
+        <dex dex="/Users/tabloan/StudioProjects/MojAutos/app/build/intermediates/pre-dexed/debug/constraint-layout-solver-1.0.0-alpha3_7aae490540be395da2f627e710f6b554fe843b64.jar" />
     </item>
     <item
-        is-multidex="true"
-        jar="/Users/tabloan/StudioProjects/MojAutos/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/9.0.2/jars/classes.jar"
-        jumboMode="true"
+        is-multidex="false"
+        jar="/Users/tabloan/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.2/7446d06ec8d4f7ffcc53f1da37c95f200dcb9387/picasso-2.5.2.jar"
+        jumboMode="false"
         optimize="false"
         revision="24.0.0"
-        sha1="92a1d5f71b0fc8938f1d3f2e6ef984b52b894b4d">
-        <dex dex="/Users/tabloan/StudioProjects/MojAutos/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-location-9.0.2_351d4e0eba7f1e8ead6799101aee7f4308f61d80/classes.dex" />
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="/Users/tabloan/StudioProjects/MojAutos/app/build/intermediates/pre-dexed/debug/picasso-2.5.2_193f98221d053f6dc9177753ee5c11ea60637c14.jar" />
     </item>
     <item
-        is-multidex="true"
-        jar="/Users/tabloan/.gradle/caches/modules-2/files-2.1/com.squareup.leakcanary/leakcanary-watcher/1.3.1/6904771474c058abfc5912c13d12b02754712165/leakcanary-watcher-1.3.1.jar"
-        jumboMode="true"
-        optimize="false"
-        revision="24.0.0"
-        sha1="6904771474c058abfc5912c13d12b02754712165">
-        <dex dex="/Users/tabloan/StudioProjects/MojAutos/app/build/intermediates/transforms/dex/debug/folders/1000/10/leakcanary-watcher-1.3.1_5dd5f56a65bedd673f15d095b8aa3c9e7568c03c/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/tabloan/StudioProjects/MojAutos/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
-        jumboMode="true"
-        optimize="false"
-        revision="24.0.0"
-        sha1="6f26f65f2377d9832a9d872eb0171e2be8af1fa9">
-        <dex dex="/Users/tabloan/StudioProjects/MojAutos/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_5adcda7f55703c0fed4f6436e86b813cb9604714/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/tabloan/.gradle/caches/modules-2/files-2.1/com.facebook.stetho/stetho/1.2.0/1d6cdb8ce8185b8b23213fad48a83987fb6d2d67/stetho-1.2.0.jar"
-        jumboMode="true"
-        optimize="false"
-        revision="24.0.0"
-        sha1="1d6cdb8ce8185b8b23213fad48a83987fb6d2d67">
-        <dex dex="/Users/tabloan/StudioProjects/MojAutos/app/build/intermediates/transforms/dex/debug/folders/1000/10/stetho-1.2.0_e1069474ac454da0562ebe812f3ea209f3cac326/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/tabloan/StudioProjects/MojAutos/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/9.0.2/jars/classes.jar"
-        jumboMode="true"
-        optimize="false"
-        revision="24.0.0"
-        sha1="f4fb6981392ca7680d02fd57d26d6124c141d9d9">
-        <dex dex="/Users/tabloan/StudioProjects/MojAutos/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-ads-9.0.2_865c2e77eecda845aa0f304ff98b068d99c63cfb/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
+        is-multidex="false"
         jar="/Users/tabloan/StudioProjects/MojAutos/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads-lite/9.0.2/jars/classes.jar"
-        jumboMode="true"
+        jumboMode="false"
         optimize="false"
         revision="24.0.0"
         sha1="b8e0372ca6dc89ac4fe22b76eeea4f68ece435b8">
-        <dex dex="/Users/tabloan/StudioProjects/MojAutos/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-ads-lite-9.0.2_563854b04aea5f59b22a51d97bdf8386d5b370ab/classes.dex" />
+        <dex dex="/Users/tabloan/StudioProjects/MojAutos/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-ads-lite-9.0.2_563854b04aea5f59b22a51d97bdf8386d5b370ab.jar" />
     </item>
     <item
-        is-multidex="true"
-        jar="/Users/tabloan/StudioProjects/MojAutos/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.0.2/jars/classes.jar"
-        jumboMode="true"
-        optimize="false"
-        revision="24.0.0"
-        sha1="4022261eeea0d92eb2997a68d2c1f084a16abad9">
-        <dex dex="/Users/tabloan/StudioProjects/MojAutos/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-basement-9.0.2_64bc40340aed914da6a7ec7cf14a870a30d755ee/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/tabloan/StudioProjects/MojAutos/app/build/intermediates/exploded-aar/com.squareup.leakcanary/leakcanary-android/1.3.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="false"
-        revision="24.0.0"
-        sha1="9066b6d4e2536b49e3b58aa301fd925247032df0">
-        <dex dex="/Users/tabloan/StudioProjects/MojAutos/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.squareup.leakcanary-leakcanary-android-1.3.1_0398f4d121671ee5aab74b291917c1310d647c53/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
+        is-multidex="false"
         jar="/Users/tabloan/StudioProjects/MojAutos/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/classes.jar"
-        jumboMode="true"
+        jumboMode="false"
         optimize="false"
         revision="24.0.0"
         sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
-        <dex dex="/Users/tabloan/StudioProjects/MojAutos/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.0.0_0e3311b4e150bdbaa86c41eda3e0baf94151eeb7/classes.dex" />
+        <dex dex="/Users/tabloan/StudioProjects/MojAutos/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.0.0_0e3311b4e150bdbaa86c41eda3e0baf94151eeb7.jar" />
     </item>
     <item
-        is-multidex="true"
+        is-multidex="false"
+        jar="/Users/tabloan/.gradle/caches/modules-2/files-2.1/com.facebook.stetho/stetho/1.2.0/1d6cdb8ce8185b8b23213fad48a83987fb6d2d67/stetho-1.2.0.jar"
+        jumboMode="false"
+        optimize="false"
+        revision="24.0.0"
+        sha1="1d6cdb8ce8185b8b23213fad48a83987fb6d2d67">
+        <dex dex="/Users/tabloan/StudioProjects/MojAutos/app/build/intermediates/pre-dexed/debug/stetho-1.2.0_e1069474ac454da0562ebe812f3ea209f3cac326.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tabloan/StudioProjects/MojAutos/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/9.0.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="false"
+        revision="24.0.0"
+        sha1="f4fb6981392ca7680d02fd57d26d6124c141d9d9">
+        <dex dex="/Users/tabloan/StudioProjects/MojAutos/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-ads-9.0.2_865c2e77eecda845aa0f304ff98b068d99c63cfb.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="/Users/tabloan/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.0.0/support-annotations-24.0.0.jar"
-        jumboMode="true"
+        jumboMode="false"
         optimize="false"
         revision="24.0.0"
         sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
-        <dex dex="/Users/tabloan/StudioProjects/MojAutos/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.0.0_ff758439067891dd4e636727baa1a0ee56c8eae3/classes.dex" />
+        <dex dex="/Users/tabloan/StudioProjects/MojAutos/app/build/intermediates/pre-dexed/debug/support-annotations-24.0.0_ff758439067891dd4e636727baa1a0ee56c8eae3.jar" />
     </item>
     <item
-        is-multidex="true"
+        is-multidex="false"
         jar="/Users/tabloan/StudioProjects/MojAutos/app/build/intermediates/exploded-aar/com.android.support.constraint/constraint-layout/1.0.0-alpha3/jars/classes.jar"
-        jumboMode="true"
+        jumboMode="false"
         optimize="false"
         revision="24.0.0"
         sha1="650cf8686cd625acfbdd43f8ab33f6f2f057605f">
-        <dex dex="/Users/tabloan/StudioProjects/MojAutos/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support.constraint-constraint-layout-1.0.0-alpha3_35175792541b440d20a5c32a4492b5ed96c60efd/classes.dex" />
+        <dex dex="/Users/tabloan/StudioProjects/MojAutos/app/build/intermediates/pre-dexed/debug/com.android.support.constraint-constraint-layout-1.0.0-alpha3_35175792541b440d20a5c32a4492b5ed96c60efd.jar" />
     </item>
     <item
-        is-multidex="true"
-        jar="/Users/tabloan/.gradle/caches/modules-2/files-2.1/com.squareup.leakcanary/leakcanary-analyzer/1.3.1/325e7401a7ea16918eb39ba8baad8fd5561a55d3/leakcanary-analyzer-1.3.1.jar"
-        jumboMode="true"
-        optimize="false"
-        revision="24.0.0"
-        sha1="325e7401a7ea16918eb39ba8baad8fd5561a55d3">
-        <dex dex="/Users/tabloan/StudioProjects/MojAutos/app/build/intermediates/transforms/dex/debug/folders/1000/10/leakcanary-analyzer-1.3.1_f0df7018bae9d1184904be04e5b35c526ef3451b/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
+        is-multidex="false"
         jar="/Users/tabloan/StudioProjects/MojAutos/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.0.0/jars/classes.jar"
-        jumboMode="true"
+        jumboMode="false"
         optimize="false"
         revision="24.0.0"
         sha1="894922f67adeaaef51f077a29e315da21a3382d3">
-        <dex dex="/Users/tabloan/StudioProjects/MojAutos/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-24.0.0_feae74941f7f1b9b1df10fb981da16ec899eec56/classes.dex" />
+        <dex dex="/Users/tabloan/StudioProjects/MojAutos/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-24.0.0_feae74941f7f1b9b1df10fb981da16ec899eec56.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tabloan/StudioProjects/MojAutos/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/9.0.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="false"
+        revision="24.0.0"
+        sha1="92a1d5f71b0fc8938f1d3f2e6ef984b52b894b4d">
+        <dex dex="/Users/tabloan/StudioProjects/MojAutos/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-location-9.0.2_351d4e0eba7f1e8ead6799101aee7f4308f61d80.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tabloan/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.6.0/98476622f10715998eacf9240d6b479f12c66143/okio-1.6.0.jar"
+        jumboMode="false"
+        optimize="false"
+        revision="24.0.0"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="/Users/tabloan/StudioProjects/MojAutos/app/build/intermediates/pre-dexed/debug/okio-1.6.0_852ff39af44764bb7035d3625d3766a322578f9d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tabloan/StudioProjects/MojAutos/app/build/intermediates/exploded-aar/com.jakewharton.timber/timber/4.1.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="false"
+        revision="24.0.0"
+        sha1="aba9abcfe7ce6d935add115f5ce20254b037d583">
+        <dex dex="/Users/tabloan/StudioProjects/MojAutos/app/build/intermediates/pre-dexed/debug/com.jakewharton.timber-timber-4.1.2_1a96fe91cd51c0df2b435234504327f5cd4e19c9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tabloan/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife-annotations/8.0.1/345b89f45d02d8b09400b472fab7b7e38f4ede1f/butterknife-annotations-8.0.1.jar"
+        jumboMode="false"
+        optimize="false"
+        revision="24.0.0"
+        sha1="345b89f45d02d8b09400b472fab7b7e38f4ede1f">
+        <dex dex="/Users/tabloan/StudioProjects/MojAutos/app/build/intermediates/pre-dexed/debug/butterknife-annotations-8.0.1_fa176eb83ffa5e4026eb805dea24317672c3ed42.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tabloan/.gradle/caches/modules-2/files-2.1/com.google.dagger/dagger/2.4/6b290a792253035c9fcc912d6a4d7efb3e850211/dagger-2.4.jar"
+        jumboMode="false"
+        optimize="false"
+        revision="24.0.0"
+        sha1="6b290a792253035c9fcc912d6a4d7efb3e850211">
+        <dex dex="/Users/tabloan/StudioProjects/MojAutos/app/build/intermediates/pre-dexed/debug/dagger-2.4_84b436b0df3d993678e7f711b6397524e9232dd4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tabloan/StudioProjects/MojAutos/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="false"
+        revision="24.0.0"
+        sha1="e70f608219ed6b974644c333249ab2bb7b71de98">
+        <dex dex="/Users/tabloan/StudioProjects/MojAutos/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-24.0.0_8b9189409195ece57e25cde653b1edd07669c2fa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tabloan/.gradle/caches/modules-2/files-2.1/io.reactivex/rxjava/1.1.5/ece7b5d0870e66d8226dab6dcf47a2b12afff061/rxjava-1.1.5.jar"
+        jumboMode="false"
+        optimize="false"
+        revision="24.0.0"
+        sha1="ece7b5d0870e66d8226dab6dcf47a2b12afff061">
+        <dex dex="/Users/tabloan/StudioProjects/MojAutos/app/build/intermediates/pre-dexed/debug/rxjava-1.1.5_d678d713d073cb78a86f6a2260a6c2b55c537f75.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tabloan/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit/retrofit/1.9.0/a681c044244d9fc375198588297a39ba78028423/retrofit-1.9.0.jar"
+        jumboMode="false"
+        optimize="false"
+        revision="24.0.0"
+        sha1="a681c044244d9fc375198588297a39ba78028423">
+        <dex dex="/Users/tabloan/StudioProjects/MojAutos/app/build/intermediates/pre-dexed/debug/retrofit-1.9.0_8b92244101bed168edaad53fee4ec7fdd1b6733f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tabloan/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/2.0.1/516c03b21d50a644d538de0f0369c620989cd8f0/jsr305-2.0.1.jar"
+        jumboMode="false"
+        optimize="false"
+        revision="24.0.0"
+        sha1="516c03b21d50a644d538de0f0369c620989cd8f0">
+        <dex dex="/Users/tabloan/StudioProjects/MojAutos/app/build/intermediates/pre-dexed/debug/jsr305-2.0.1_7822a0012a92c3c76a965341003783ecf27762b8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tabloan/StudioProjects/MojAutos/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="false"
+        revision="24.0.0"
+        sha1="94d9cedd04b124aed044ac71c451a292856d854c">
+        <dex dex="/Users/tabloan/StudioProjects/MojAutos/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-base-9.0.2_cd890811f38471bb92014acb8330100811c98e0b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tabloan/StudioProjects/MojAutos/app/build/intermediates/exploded-aar/com.android.support/design/24.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="false"
+        revision="24.0.0"
+        sha1="fc29308a7a8f6d4407b34634eb48fb8b817f9b23">
+        <dex dex="/Users/tabloan/StudioProjects/MojAutos/app/build/intermediates/pre-dexed/debug/com.android.support-design-24.0.0_1b36dc609cef38ba2facedf558c83b825fa6dfe7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tabloan/.gradle/caches/modules-2/files-2.1/com.squareup.haha/haha/1.3/d2c832f9d14a11c79f58a7ee2e10526a12152c72/haha-1.3.jar"
+        jumboMode="false"
+        optimize="false"
+        revision="24.0.0"
+        sha1="d2c832f9d14a11c79f58a7ee2e10526a12152c72">
+        <dex dex="/Users/tabloan/StudioProjects/MojAutos/app/build/intermediates/pre-dexed/debug/haha-1.3_aeb804f8740043d25d28c2281e574f60080aa5e2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tabloan/StudioProjects/MojAutos/app/build/intermediates/exploded-aar/com.jakewharton/butterknife/8.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="false"
+        revision="24.0.0"
+        sha1="74ca46e7da11e3d065eb64cdbe6568a7ed74c211">
+        <dex dex="/Users/tabloan/StudioProjects/MojAutos/app/build/intermediates/pre-dexed/debug/com.jakewharton-butterknife-8.0.1_12a2150a37411db85ed40b511e075a952faf71de.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tabloan/StudioProjects/MojAutos/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/24.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="false"
+        revision="24.0.0"
+        sha1="8dd49930e4f9dde1a42d37e362b9fea8b1b69c0d">
+        <dex dex="/Users/tabloan/StudioProjects/MojAutos/app/build/intermediates/pre-dexed/debug/com.android.support-cardview-v7-24.0.0_cdc9762c3557fd50b5de8acd794fc82c442111fa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tabloan/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        optimize="false"
+        revision="24.0.0"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/Users/tabloan/StudioProjects/MojAutos/app/build/intermediates/pre-dexed/debug/javax.inject-1_96df200b52910105445d474f43503b7b89063b83.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tabloan/.gradle/caches/modules-2/files-2.1/com.squareup.leakcanary/leakcanary-watcher/1.3.1/6904771474c058abfc5912c13d12b02754712165/leakcanary-watcher-1.3.1.jar"
+        jumboMode="false"
+        optimize="false"
+        revision="24.0.0"
+        sha1="6904771474c058abfc5912c13d12b02754712165">
+        <dex dex="/Users/tabloan/StudioProjects/MojAutos/app/build/intermediates/pre-dexed/debug/leakcanary-watcher-1.3.1_5dd5f56a65bedd673f15d095b8aa3c9e7568c03c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tabloan/StudioProjects/MojAutos/app/build/intermediates/exploded-aar/com.squareup.leakcanary/leakcanary-android/1.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="false"
+        revision="24.0.0"
+        sha1="9066b6d4e2536b49e3b58aa301fd925247032df0">
+        <dex dex="/Users/tabloan/StudioProjects/MojAutos/app/build/intermediates/pre-dexed/debug/com.squareup.leakcanary-leakcanary-android-1.3.1_0398f4d121671ee5aab74b291917c1310d647c53.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tabloan/StudioProjects/MojAutos/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.0.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="false"
+        revision="24.0.0"
+        sha1="4022261eeea0d92eb2997a68d2c1f084a16abad9">
+        <dex dex="/Users/tabloan/StudioProjects/MojAutos/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-basement-9.0.2_64bc40340aed914da6a7ec7cf14a870a30d755ee.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tabloan/.gradle/caches/modules-2/files-2.1/com.squareup.leakcanary/leakcanary-analyzer/1.3.1/325e7401a7ea16918eb39ba8baad8fd5561a55d3/leakcanary-analyzer-1.3.1.jar"
+        jumboMode="false"
+        optimize="false"
+        revision="24.0.0"
+        sha1="325e7401a7ea16918eb39ba8baad8fd5561a55d3">
+        <dex dex="/Users/tabloan/StudioProjects/MojAutos/app/build/intermediates/pre-dexed/debug/leakcanary-analyzer-1.3.1_f0df7018bae9d1184904be04e5b35c526ef3451b.jar" />
     </item>
 
 </items>
